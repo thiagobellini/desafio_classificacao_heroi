@@ -29,6 +29,9 @@ Ao final deve se exibir uma mensagem: "O Herói de nome **{nome}** está no nív
 
 Bons estudos 😉
 
+---
+---
+
 ENGLISH:
 
 Hero Ranker Challenge - DIO
